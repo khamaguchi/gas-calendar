@@ -1,2 +1,0 @@
-# gas
-Google Apps Script 
